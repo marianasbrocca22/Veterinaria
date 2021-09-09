@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Virbac Hpm Senior Raza Pequeña 3kg",
+        "description": "Para perros seniors no esterilizados, de razas pequeñas (5-10 kg) a partir de 10 años de edad y perros de razas miniatura (<5 kg) a partir de los 12 años.",
+        "cost": "$1386",
+        "img": "img/virbac.jpg",
+        "soldCount": "85",
+        "category": "Alimento para perro"
+    },
+
+    {
+        "name": "Max Selection Pro – 20Kg + Regalos",
+        "description": "Max Professional Line Selection Pro Sabor adulto La carne, el pollo y el arroz es un alimento premium especial completo para perros adultos, libre de sabores y colores artificiales. Producido con fuentes de proteínas de alta calidad que proporcionan una mejor absorción y aumentan la digestibilidad. La línea Max Professional Line está desarrollada con ingredientes funcionales y nutricionalmente equilibrados, como la linaza, una fuente de omega-3 y arroz (excelente fuente de carbohidratos). También tiene extracto de yuca, que proporciona menos volumen y olor en las heces y está enriquecido con vitaminas y minerales que aseguran la mejor nutrición para tu perro.",
+        "cost": "$1850",
+        "img": "img/max.jpg",
+        "soldCount": "25",
+        "category": "Alimento para perro"
+    },
+
+    {
+        "name": "Hill’s Perro Adulto Mediano/Grande",
+        "description": "El alimento seco para perros Hill’s® Science Diet® para adultos está especialmente formulado para alimentar las necesidades energéticas de los perros durante la plenitud de su vida. Hecho con ingredientes de alta calidad y fáciles de digerir.",
+        "cost": "$2000",
+        "img": "img/hills-min.jpg",
+        "soldCount": "30",
+        "category": "Alimento para perro"
+    },
+
+    {
+        "name": "Equilibrio Perro Adulto Mediano + Regalos",
+        "description": "Alimento completo para perros adultos a partir de 12 meses de vida, con actividad normal. Todas las razas de perros.",
+        "cost": "$2500",
+        "img": "img/equilibrio.jpg",
+        "soldCount": "40",
+        "category": "Alimento para perro"
+    },
+
+    {
+        "name": "Biofresh Gato Castrado + Regalos",
+        "description": "Biofresh Super Premium es innovador y diferente, porque tiene ALTA INCLUSIÓN DE INGREDIENTES REALMENTE FRESCOS, directamente de la naturaleza. El resultado es un alimento completo y equilibrado que se destaca por elevar la nutrición de los perros mayores de razas medianas a su más alto nivel. Biofresh Super Premium Senior ayuda a preservar características muy importantes de la juventud, tales como los músculos fuertes, la agilidad mental y la salud de los aparatos digestivo, renal y cardíaco. La TECNOLOGÍA Biofresh garantiza la conservación de este alimento de forma 100% natural y segura, SIN CONSERVANTES ARTIFICIALES AÑADIDOS.",
+        "cost": "$899 – $3.590",
+        "img": "img/Base_Regalo_0034_Capa-5-min.jpg",
+        "soldCount": "40",
+        "category": "Alimento para gato"
+    },
+
+    {
+        "name": "Biofresh Gato Adulto",
+        "description": "Biofresh Super Premium es innovador y diferente, porque tiene ALTA INCLUSIÓN DE INGREDIENTES REALMENTE FRESCOS, directamente de la naturaleza. El resultado es un alimento completo y equilibrado que se destaca por elevar la nutrición de los perros mayores de razas medianas a su más alto nivel. Biofresh Super Premium Senior ayuda a preservar características muy importantes de la juventud, tales como los músculos fuertes, la agilidad mental y la salud de los aparatos digestivo, renal y cardíaco. La TECNOLOGÍA Biofresh garantiza la conservación de este alimento de forma 100% natural y segura, SIN CONSERVANTES ARTIFICIALES AÑADIDOS.",
+        "cost": "$899 – $3.590",
+        "img": "img/Base_Regalo_0034_Capa-5-min.jpg",
+        "soldCount": "40",
+        "category": "Alimento para gato"
+    },
+
+    {
+        "name": "Equilibrio Gato Pelo Largo + Arena",
+        "description": "Alimento completo para gatos adultos de raza persa o gatos con pelos largos. Presentación 7,5kg con snacks de regalo.",
+        "cost": "$524 – $1.798",
+        "img": "img/Base_Regalo_0035_Capa-3-min.jpg",
+        "soldCount": "40",
+        "category": "Alimento para gato"
+    },
+
+    {
+        "name": "Equilibrio Gatos Adultos + Regalos",
+        "description": "Alimento completo para gatos adultos Equilibrio. Auxilia en el equilibrio de la ­flora intestinal.",
+        "cost": "$492 – $1.652",
+        "img": "img/Base_Regalo_0037_eq_gato_regalo-min.jpg",
+        "soldCount": "40",
+        "category": "Alimento para gato"
+    },
+
+    {
+        "name":"Ración De Canarios 500 Grs",
+        "description": "Excelente mezcla de granos balanceados que brindan la mejor alimentación y salud a todo tipo de canarios y cotorritas australianas.",
+        "cost": "210",
+        "img": "img/canarios.jpg",
+        "soldCount": "37",
+        "category": "Alimento para pájaros"
+    },
+
+    {
+        "name": "Ración De Cardenal 500Gr",
+        "description": "Alimento balanceado pensado en la salud y vitalidad de Aves granívoras y pájaros ornamentales. Preparado con mezclas de semillas que ellos consumen en su hábitat natural.",
+        "cost": "210",
+        "img": "img/cardenal.jpg",
+        "soldCount": "50",
+        "category": "Alimento para pájaros"
+    },
+
+    {
+        "name":"Ración De Conejos 1 Kg",
+        "description":"Alimento formulado para cubrir las necesidades nutricionales de todas las categorías de la especie." ,
+        "cost": "95",
+        "img":"img/conejos.jpg" ,
+        "soldCount": "25",
+        "category": "Alimento para roedores"
+    },
+
+    {
+        "name": "Ración De Hamster 500 Grs",
+        "description":"Cuises, cobayos y hámsteres Buenos consumidores de Maíz, Avena, Sorgo, Arveja desecada, Trigo y Girasol. Disponemos de una mezcla con dichos granos para una muy buena alimentación." ,
+        "cost":"160" ,
+        "img": "img/hamster.jpg",
+        "soldCount": "32",
+        "category": "Alimento para roedores"
+    }
+
+
+
+]
